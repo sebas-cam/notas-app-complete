@@ -1,6 +1,5 @@
 # Getting Started with Create React App
 
-https://freefrontend.com/tailwind-footers/
 
 App where you can login or resgister to write, edit or delete notes.
 
