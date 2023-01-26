@@ -3,6 +3,7 @@ import AddNoteBotton from "../components/addNote/addNote";
 import Cookies from 'js-cookie';
 import ShowNotes from "../services/serviceShowNotes";
 import { useState } from "react";
+import Footer from "../components/footer/footer";
 
 function NotasView() {    
 
@@ -39,7 +40,7 @@ function NotasView() {
           <main>
             <div className="mx-auto max-w-7xl py-6 sm:px-6 lg:px-8">
               <div className="px-4 py-6 sm:px-0">
-                <div className="min-h-full rounded-lg border-4 border-dashed border-gray-200 p-5">
+                <div className="min-h-[300px] rounded-lg border-4 border-dashed border-gray-200 p-5">
                   
                   <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 ">
                     <ShowNotes reload={handleShowNotes} />
@@ -47,7 +48,9 @@ function NotasView() {
                 </div>
               </div>
             </div>
-          </main>             
+          </main> 
+
+          <Footer/>            
             
         </div>        
     )
