@@ -15,7 +15,7 @@ function Footer() {
                     
                 </div>
                 <p className="mt-8 text-base leading-6 text-center text-[#d19019] ">
-                    Made by <a target="_blank" href="https://sebastian-campos.com/" className="text-gray-400 hover:text-[#d19019]"> Sebastian </a>
+                    Made by <a target="_blank" href="https://sebastian-campos.com/" className="text-[#1f2937] hover:text-[#d19019]"> Sebastian </a>
                 </p> 
             </div>
         </section>
