@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+
+App where you can login or resgister to write, edit or delete notes.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
