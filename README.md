@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# NOTAS APP
 
 
 App where you can login or resgister to write, edit or delete notes.
