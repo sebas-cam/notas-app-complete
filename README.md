@@ -1,10 +1,10 @@
 # NOTAS APP
 
 
-App where you can login or resgister to write, edit or delete notes.
+App where you can login, resgister and write, edit or delete notes.
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
